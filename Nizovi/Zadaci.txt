@@ -1,0 +1,10 @@
+Napraviti funkciju koja prima niz stringova i vraća novi niz sa stringovima koji su veći od 5 karaktera.
+Napraviti funkciju koja prima niz brojeva i vraća niz sa svakim drugim elementom.
+Napraviti funkciju koja prima niz stringova i vraća broj stringova koji počinju sa slovom 'a'.
+Napraviti funkciju koja prima niz brojeva i vraća niz sa svakim trećim elementom u obrnutom redosledu.
+Napraviti funkciju koja prima niz stringova i vraća novi niz sa stringovima koji su jednaki po dužini.
+Napraviti funkciju koja prima niz brojeva i vraća sumu svih neparnih brojeva u nizu.
+Napraviti funkciju koja prima niz stringova i vraća niz sa stringovima koji se pojavljuju više od jednom u nizu.
+Napraviti funkciju koja prima niz brojeva i vraća niz sa svakim elementom koji je veći od prosječne vrijednosti svih elemenata u nizu.
+Napraviti funkciju koja prima niz stringova i vraća string sa svim stringovima iz niza spojenim zajedno (bez razmaka).
+Napraviti funkciju koja prima niz brojeva i vraća niz sa svakim elementom na kvadrat.
